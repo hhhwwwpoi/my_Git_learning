@@ -10,8 +10,8 @@ https://space.bilibili.com/405560716?spm_id_from=333.788.b_765f7570696e666f.2
 
 ### 1.1.安装git软件
 
-●下载git安装文件 [ https://git-scm. com/ download/ mac]( https://git-scm. com/ download/ mac)   或者去镜像下
-[镜像](https://www. newbe . pro/Mirrors/Mirrors-Git-For -Macos/) 
+●下载git安装文件 [https://git-scm.com/download/mac](https://git-scm.com/download/mac)   或者去镜像下
+[https://www.newbe.pro/Mirrors/Mirrors-Git-For-Macos/](https://www.newbe.pro/Mirrors/Mirrors-Git-For-Macos/) 
 ●测试git是否安装成功 git --version !
 
 ```c++
